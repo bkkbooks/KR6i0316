@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6i0316/x/v1/juan/0
+seq: 0
+front:
+  text: 金光明經照解敘書肆來曰請點此書余開而見之則石芝曉公金光明疏也門分十段悉解經文至第九段設三十六問答雖但解光明義實通諸經余不耐踊躍三餘之暇正烏焉誤加倭訓而刊行石芝所撰四明教行錄樂文類施食通覽等曩既行于世今亦此書出於戲曉公為人之意其不泯者也歟旹元祿八乙亥臘月初吉總之下州高玅雲山法輪講寺住學之僧如海謹誌
+  hash: sha256:5ec95e443b489c54611976d9cf81b8d7f57dad2289be3a3dc44abab9cacc897d
+  markers:
+  - {type: 序, offset: 0, content: No. 361-A 金光明經照解敘, id: KR6i0316_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明經照解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0361.xml
+    old_id: X20n0361
+hash: sha256:da9d4913d1a0efba97ef85c3cb42f3320a87459423b26dee152956ac76b9cfa6

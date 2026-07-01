@@ -1,0 +1,285 @@
+canonical_identifier: bkk:krp/KR6i0316/v1
+canonical_location: https://kanripo.org/bkk/KR6i0316/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金光明經照解
+  identifiers:
+    alt_id:
+    - X20n0361
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0361.xml
+    old_id: X20n0361
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0316_000.yaml, hash: 'sha256:9a03d8b7b4dc1d9388f4ae58b21ed2ec04d6a2f20339f6e4929f33c1b8e049ee'}
+  - {seq: 1, filename: KR6i0316_001.yaml, hash: 'sha256:17a6b6b7e3f9b362fe9d8b51523fce15911432dc6a7768d6e5526c1494244923'}
+  - {seq: 2, filename: KR6i0316_002.yaml, hash: 'sha256:2290c340cf958ed194790920d335e5a44d09fe5ba8d748f2fd71674e7202e7f7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0316_000.markers.yaml, hash: 'sha256:145a69afe5781b0f0857c38dfb82b6ff7e6763f3b0f78d68674353f31c287d0f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0316_001.markers.yaml, hash: 'sha256:8224c5a4eecb15c163b2e8852b94457e2b9ab536fdef27ea6b878f0a66b86171'}
+  - {seq: 2, role: markers, filename: assets/KR6i0316_002.markers.yaml, hash: 'sha256:82726907e393480bf2aab202526a1c0c22df8c25d8a2c55825e348e4d6428c95'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0316_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 361-A 金光明經照解敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 38796
+  label: 金光明經照解卷上并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-2
+    span:
+    - body
+    - 332
+    - 332
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-3
+    span:
+    - body
+    - 382
+    - 382
+  label: 一翻譯部帙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-4
+    span:
+    - body
+    - 1256
+    - 1256
+  label: 二五章大旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-5
+    span:
+    - body
+    - 2902
+    - 2902
+  label: 三三分分文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-6
+    span:
+    - body
+    - 3772
+    - 3772
+  label: 四諸品生起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-7
+    span:
+    - body
+    - 4972
+    - 4972
+  label: 五辯正訛謬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-8
+    span:
+    - body
+    - 10936
+    - 10936
+  label: 六為為音訓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-9
+    span:
+    - body
+    - 10941
+    - 10941
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-10
+    span:
+    - body
+    - 11075
+    - 11075
+  label: 第一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-11
+    span:
+    - body
+    - 11186
+    - 11186
+  label: 第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-12
+    span:
+    - body
+    - 11483
+    - 11483
+  label: 第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-13
+    span:
+    - body
+    - 11768
+    - 11768
+  label: 第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-14
+    span:
+    - body
+    - 12065
+    - 12065
+  label: 七點示句讀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-15
+    span:
+    - body
+    - 12070
+    - 12070
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-16
+    span:
+    - body
+    - 12134
+    - 12134
+  label: 第一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-17
+    span:
+    - body
+    - 12213
+    - 12213
+  label: 第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-18
+    span:
+    - body
+    - 12303
+    - 12303
+  label: 第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-19
+    span:
+    - body
+    - 12366
+    - 12366
+  label: 第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0316_X_001-mulu-20
+    span:
+    - body
+    - 12434
+    - 12434
+  label: 八箋釋事相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0316_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 38131
+  label: 金光明經照解卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0316_X_002-mulu-1
+    span:
+    - body
+    - 30303
+    - 30303
+  label: 九問答釋疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0316_X_002-mulu-2
+    span:
+    - body
+    - 37508
+    - 37508
+  label: 十境觀修顯
+  type: mulu
+  level: 1
+hash: sha256:6a665bea16a068872ec07599e066fd061b4109fde51167f5b02ebbe560932a8d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
