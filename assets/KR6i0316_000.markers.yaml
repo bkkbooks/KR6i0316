@@ -40,7 +40,6 @@ markers:
   - {type: line-break, offset: 67, content: '', id: KR6i0316_X_000-0478a10, ed: X, 'n': 0478a10}
   - {type: line-break, offset: 67, content: '', id: KR6i0316_X_000-0743a05, ed: R031, 'n': 0743a05}
   - {type: punctuation, offset: 77, content: 。, id: KR6i0316_X_000-bkkpn21}
-  - {type: substitution, offset: 85, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 86, content: 、, id: KR6i0316_X_000-bkkpn22}
   - {type: line-break, offset: 87, content: '', id: KR6i0316_X_000-0478a11, ed: X, 'n': 0478a11}
   - {type: line-break, offset: 87, content: '', id: KR6i0316_X_000-0743a06, ed: R031, 'n': 0743a06}
@@ -58,12 +57,9 @@ markers:
   - {type: line-break, offset: 118, content: '', id: KR6i0316_X_000-0478a13, ed: X, 'n': 0478a13}
   - {type: line-break, offset: 118, content: '', id: KR6i0316_X_000-0743a08, ed: R031, 'n': 0743a08}
   - {type: xml-element, offset: 118, content: '', id: pX20p0478a1301, name: p, role: open, attrs: {'xml:id': pX20p0478a1301, style: 'margin-left:2em'}}
-  - {type: substitution, offset: 118, original: 旹, replacement: 時, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0328}}
   - {type: punctuation, offset: 132, content: 󰕖, id: KR6i0316_X_000-bkkpn31}
-  - {type: substitution, offset: 133, original: 玅, replacement: 妙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0425}}
   - {type: line-break, offset: 135, content: '', id: KR6i0316_X_000-0478a14, ed: X, 'n': 0478a14}
   - {type: line-break, offset: 135, content: '', id: KR6i0316_X_000-0743a09, ed: R031, 'n': 0743a09}
-  - {type: substitution, offset: 147, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: xml-element, offset: 148, content: '', id: pX20p0478a1301_end, name: p, role: close, attrs: {'xml:id': pX20p0478a1301, style: 'margin-left:2em'}}
   - {type: line-break, offset: 148, content: '', id: KR6i0316_X_000-0478a15, ed: X, 'n': 0478a15}
   - {type: line-break, offset: 148, content: '', id: KR6i0316_X_000-0478a16, ed: X, 'n': 0478a16}
@@ -80,4 +76,4 @@ markers:
   - {type: line-break, offset: 148, content: '', id: KR6i0316_X_000-0743a11, ed: R031, 'n': 0743a11}
   body: []
   back: []
-hash: sha256:145a69afe5781b0f0857c38dfb82b6ff7e6763f3b0f78d68674353f31c287d0f
+hash: sha256:40105e00bb6bfaa1aaeba47bd07d31e142f7ac9ebb028776e5e17f31b1569ed4
