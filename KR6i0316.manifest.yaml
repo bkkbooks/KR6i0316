@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0316_000.yaml, hash: 'sha256:9a03d8b7b4dc1d9388f4ae58b21ed2ec04d6a2f20339f6e4929f33c1b8e049ee'}
+  - {seq: 0, filename: KR6i0316_000.yaml, hash: 'sha256:9737af18c8f997d4fc67eb1e1dc9a46cabb1e1b9191ea355d417635db93e0070'}
   - {seq: 1, filename: KR6i0316_001.yaml, hash: 'sha256:b74a9be28157b40af0ec73c3a75e872a76b071f477f6db6d5299cba47345f8e3'}
   - {seq: 2, filename: KR6i0316_002.yaml, hash: 'sha256:6b57746613e519f29e57400e8d06da9f4dae811c841b8c5c1f55d472b5293587'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0316_000.markers.yaml, hash: 'sha256:487f61cfb0baf5f6a2bd50ecbebf3ac387b7ba6455ba3ddf1830cee2599aea6d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0316_000.markers.yaml, hash: 'sha256:384605d278982b6c48d6293abf42e3ae436ff8db317f6cd2a5dcc7a380cf0931'}
   - {seq: 1, role: markers, filename: assets/KR6i0316_001.markers.yaml, hash: 'sha256:74d2babf225fbea0f1dba4085f743cd9354d4f1970172edb3a0cf8ca28f7319c'}
   - {seq: 2, role: markers, filename: assets/KR6i0316_002.markers.yaml, hash: 'sha256:19032ca9844ac2066bf57f915aa9d10c66614e4dc38d43676af297bcfaae4ef9'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0316_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 361-A 金光明經照解敘
@@ -279,7 +279,7 @@ table_of_contents:
   label: 十境觀修顯
   type: mulu
   level: 1
-hash: sha256:38db888cce105ca385e28c98c348b6a8c0181c660c2ba27c9fa0dc6e960beaaa
+hash: sha256:e49d892a25b311e52080d854868efb316c6d934078702630cdc6a92f279fe373
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
